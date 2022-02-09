@@ -1,9 +1,8 @@
 # Guide to Managing Events at Tilth Alliance
-Welcome to my first repository.
+This guide will describe the processes that are typically used to manage Tilth Alliance events each year.
  
-Here are a few things I enjoy:
- * Camping
- * Cooking
- * Traveling
+Events covered in this guide include:
+ * Edible Plant Sale
+ * Farm Fest
 
-Thank you _so much_ for stopping by. **Stay tuned for more edits.**
+Happy planning!
